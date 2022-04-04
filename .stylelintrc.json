@@ -1,5 +1,5 @@
 {
-  "extends": "stylelint-config-standard",
+  "extends": "stylelint-config-recommended",
   "rules": {
     "selector-class-pattern": null,
     "no-missing-end-of-source-newline": null
